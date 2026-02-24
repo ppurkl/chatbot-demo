@@ -1,4 +1,4 @@
-// Test
+// Test 1
 
 module tt_um_vga_example(
     input wire [7:0] ui_in, // Dedizierte Eingänge
